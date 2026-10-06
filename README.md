@@ -31,7 +31,7 @@ The app reads battery information from Samsung's built-in SysDump logs and prese
 
 Samsung stores battery statistics inside its diagnostic dumpstate logs.
 
-Battery Health Plus searches these logs for Samsung battery values including:
+Battery Plus searches these logs for Samsung battery values including:
 
 * `mSavedBatteryAsoc` — battery health percentage
 * `mSavedBatteryUsage` — battery usage value used to calculate cycle count
@@ -76,17 +76,17 @@ Download the latest APK from the **Releases** section of this repository.
 
 ## Compatibility
 
-Battery Health Plus is intended primarily for **Samsung Galaxy devices** that provide the required battery information through Samsung SysDump.
+Battery Plus is intended primarily for **Samsung Galaxy devices** that provide the required battery information through Samsung SysDump.
 
 ## Important
 
-Battery health values are reported by Samsung's battery management system
+Battery Plus are reported by Samsung's battery management system
 
-Battery Health Plus is an independent project and is **not affiliated with, endorsed by, or sponsored by Samsung Electronics**.
+Battery Plus is an independent project and is **not affiliated with, endorsed by, or sponsored by Samsung Electronics**.
 
 ## Issues
 
-If Battery Health Plus does not detect your battery information, open an issue and include:
+If Battery Plus does not detect your battery information, open an issue and include:
 
 * Galaxy model
 * One UI version
