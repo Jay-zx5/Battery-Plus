@@ -1,14 +1,18 @@
+# Battery Plus
+
+
+
+
 <img width="192" height="192" alt="bhp_launcher" src="https://github.com/user-attachments/assets/de9b0609-d223-4f91-80c1-81722feea3c9" />
 
 
 
 
 
-Battery health and cycle count reader for compatible Samsung Galaxy devices
 
 
 
-Battery Health Plus is a simple app for Samsung Galaxy devices that can display the battery's **health percentage** and **cycle count** without root access or ADB 
+Battery Plus is a simple app for Samsung Galaxy devices that can display the battery's **health percentage** and **cycle count** without root access or ADB 
 
 The app reads battery information from Samsung's built-in SysDump logs and presents the useful values in a clean interface.
 
