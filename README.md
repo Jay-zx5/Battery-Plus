@@ -68,8 +68,6 @@ is displayed as approximately:
    
           1)to check latest readings repeat above steps again
 
-          2)after checking battery health you can delete generated files in log folder
-
 ## Download
 
 Download the latest APK from the **Releases** section of this repository.
