@@ -56,10 +56,11 @@ is displayed as approximately:
 
 ## How to Use
 
-1. Download and install the APK below.
-2. Open Battery Plus and select the log folder, if there's no folder create one named with "log"
-3. Tap Start, then press # in the Phone app.
-4. Scroll down and tap “Run dumpstate & copy to sdcard”, then OK.
+1. Download and install the APK below
+2. Open Battery Plus and select the log folder, if there's no folder create one named with "log"(this is one time)
+3. Tap Start, then press # in the Phone app
+4. tap on "Delete dumpstate/logcat" once done, Scroll to bottom and tap “Run dumpstate & copy to sdcard”, then OK
+
 5. Once report generation finishes, return to Battery Plus and tap Check.
 
 
